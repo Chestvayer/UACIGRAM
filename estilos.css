@@ -1,0 +1,26 @@
+.titulo
+{
+    color: blue;
+    
+
+}
+.titulo2
+{
+    color:red;
+    font-size: 70px;
+    
+}
+.boton
+{
+    background-color: lightblue;
+    padding:10px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.texto
+{
+    font-size: 80px;
+    color: aqua;
+     
+}
